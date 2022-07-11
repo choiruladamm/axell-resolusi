@@ -3,4 +3,4 @@ Axell Resolusi
 - Belajar membuat web personal dari Front End dan Back End, kemudian di hosting
 - Aktif di forum diskusi / rutin melihat project" yang di pamerkan channel WPU
 - Membuat website E-commerce (Full-Stack Development)
-- Mencoba kolaborasi dengan teman
+- Membuat project terbaru dengan konsisten
